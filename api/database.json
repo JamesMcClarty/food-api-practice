@@ -1,0 +1,57 @@
+{
+    "food": [
+        {
+            "id": 1,
+            "name": "Linguine",
+            "category": "pasta",
+            "ethnicity": "italian",
+            "restaurantId": 1,
+            "barcode": "8076809523509"
+        },
+        {
+            "id": 3,
+            "name": "Green curry",
+            "category": "curry",
+            "ethnicity": "thai",
+            "restaurantId": 2,
+            "barcode": "3270160812936"
+        },
+        {
+            "id": 4,
+            "name": "Ravioli Funghi",
+            "category": "pasta",
+            "ethnicity": "italian",
+            "restaurantId": 2,
+            "barcode": "8001665127585"
+        },
+        {
+            "id": 5,
+            "name": "Tuscan Soup",
+            "category": "vegetarian",
+            "ethnicity": "italian",
+            "restaurantId": 2,
+            "barcode": "5000169116562"
+        },
+        {
+            "id": 6,
+            "name": "Calzone",
+            "category": "pizza",
+            "ethnicity": "Italain",
+            "restaurantId": 1,
+            "barcode": "3270160890897"
+        }
+    ],
+
+    "restaurants": [
+        
+        {
+            "id": 1,
+            "name": "Nate's House of Pasta"
+        },
+        {
+            "id": 2,
+            "name": "Any And All Restaurant"
+        }
+
+    ]
+}

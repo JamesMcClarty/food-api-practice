@@ -1,0 +1,11 @@
+.box{
+    border: 1px solid red;
+    text-align: center;
+    max-width: 25%;
+}
+
+.foodList{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
